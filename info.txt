@@ -1,0 +1,4 @@
+/For Auto Refreshing the server not running it again and again
+// npm install  nodemon --save-dev
+
+///npm run start -> for staring node project by local not global dev dependencis (start come from the script)
